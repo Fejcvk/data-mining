@@ -28,6 +28,12 @@ make clean
 *  [Transformer Neural Networks](https://www.youtube.com/watch?v=TQQlZhbC5ps&fbclid=IwAR0DSwpVBZLzdUTgPSG0HCPfSmk2mCae_i-PtinUNppcjLHjg6Oug4zWFL4)
 *  [Attention in Neural Networks](https://www.youtube.com/watch?v=W2rWgXJBZhU&fbclid=IwAR1lcQAOhc3Xz3Y7MNeQ5n7ftpS6ek8x_7o3sFE1fVaEnHTa5lKVIgFnVPE) 
 
+## Artykuły
+* [Word2Vec](http://jalammar.github.io/illustrated-word2vec/)
+* [Cool blog about NLP](https://openai.com/blog/better-language-models/)
+* [BERT](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) - using pretrained neural network for most common nlp tasks
+* [Transformers](http://jalammar.github.io/illustrated-transformer/)
+
 ## SoTA 
 *   [glove](https://nlp.stanford.edu/projects/glove/) - Global Vectors for Word Representation
 *   [word2vec](https://en.wikipedia.org/wiki/Word2vec) [and in polish](http://www.deepdata.pl/uncategorized/przygotowanie-polskiego-modelu-word2vec-z-wykorzystaniem-korpusu-opensubtitles/) - group of related models that are used to produce word embeddings
