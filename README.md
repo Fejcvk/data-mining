@@ -33,7 +33,7 @@ make clean
 * [Cool blog about NLP](https://openai.com/blog/better-language-models/)
 * [BERT](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) - using pretrained neural network for most common nlp tasks
 * [Transformers](http://jalammar.github.io/illustrated-transformer/)
-
+* [Tworzenie wlasniego W2V dla PL](http://www.deepdata.pl/uncategorized/przygotowanie-polskiego-modelu-word2vec-z-wykorzystaniem-korpusu-opensubtitles/)
 ## SoTA 
 *   [glove](https://nlp.stanford.edu/projects/glove/) - Global Vectors for Word Representation
 *   [word2vec](https://en.wikipedia.org/wiki/Word2vec) [and in polish](http://www.deepdata.pl/uncategorized/przygotowanie-polskiego-modelu-word2vec-z-wykorzystaniem-korpusu-opensubtitles/) - group of related models that are used to produce word embeddings
@@ -47,4 +47,7 @@ make clean
 *   [xlnet](https://medium.com/dair-ai/xlnet-outperforms-bert-on-several-nlp-tasks-9ec867bb563b) and [this](https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335) - XLNet is a BERT-like model instead of a totally different one. But it is a very promising and potential one. In one word, XLNet is a generalized autoregressive pretraining method.
 *   [distilbert](https://medium.com/huggingface/distilbert-8cf3380435b5) and [this](https://arxiv.org/pdf/1910.01108.pdf) - a distilled version of BERT: smaller, faster, cheaper and lighter 
 
-
+## Zbiory dla języka polskiego i nie tylko
+* [W2V Oparte na korpusie z Wikipedii](https://github.com/Kyubyong/wordvectors)
+* [Od PAN](http://clip.ipipan.waw.pl/NationalCorpusOfPolish)
+* [W2V dla Polskiego trenowany na Korpusie słowosieci v10](https://clarin-pl.eu/dspace/handle/11321/327)
