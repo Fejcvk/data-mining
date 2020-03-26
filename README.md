@@ -34,6 +34,7 @@ make clean
 * [BERT](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) - using pretrained neural network for most common nlp tasks
 * [Transformers](http://jalammar.github.io/illustrated-transformer/)
 * [Tworzenie wlasniego W2V dla PL](http://www.deepdata.pl/uncategorized/przygotowanie-polskiego-modelu-word2vec-z-wykorzystaniem-korpusu-opensubtitles/)
+* [ALBERT](https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html)
 ## SoTA 
 *   [glove](https://nlp.stanford.edu/projects/glove/) - Global Vectors for Word Representation
 *   [word2vec](https://en.wikipedia.org/wiki/Word2vec) [and in polish](http://www.deepdata.pl/uncategorized/przygotowanie-polskiego-modelu-word2vec-z-wykorzystaniem-korpusu-opensubtitles/) - group of related models that are used to produce word embeddings
