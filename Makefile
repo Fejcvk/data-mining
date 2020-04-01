@@ -4,8 +4,8 @@ build: ## Build the container
 run:
 	docker run --rm $(APP_NAME)
 jupyter:
-	docker run --rm -p 8888:8888 ${APP_NAME}
+	docker run -v ${PWD}/src/notebookes/bert-poc.ipynb:/opt/src/notebookes/bert-poc.ipynb --rm -p 8888:8888 ${APP_NAME}
 enter:
-	docker run -it --rm $(APP_NAME) bash
+	docker run -v ${PWD}/src/notebookes/bert-poc.ipynb:/opt/src/notebookes/bert-poc.ipynb --rm  -it $(APP_NAME)  bash
 clean:
 	docker rm "$(shell docker ps -a -q)"
