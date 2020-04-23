@@ -1,0 +1,2196 @@
+verb_veridial_positive,verb_veridical_negative,semantic_characteristic,standford_signature_for_that,standford_signature_for_to,complementizer,verb_tense,semantic_relation
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,emotywny,none,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,past,E
+o,o,mówienia,o/o,none,that,present,N
++,+,mówienia,nie ma,none,that,none,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,present,N
++,o,ontyczny,nie ma,none,that,present,E
+o,o,wynikania,"""+/o""",none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+-,+,określające dostęp do wiedzy,nie ma,none,that,none,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,percepcyjny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,pamięciowy,none,none,that,present,E
+o,o,mówienia,nie ma,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,o,odkrycia,none,none,that,present,E
+o,o,wynikania,o/o,none,that,past,N
+o,o,mówienia,"""+/o""",none,that,present,N
++,+,pamięciowy,nie ma,none,that,present,E
+o,o,mówienia,none,none,that,past,N
++,+,określające dostęp do wiedzy,none,none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,emotywny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,-,ontyczny,nie ma,none,that,present,E
++,-,ontyczny,nie ma,none,that,present,E
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,wynikania,none,none,that,present,N
+o,o,wynikania,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,?
++,+,percepcyjny,"""+/+""",none,that,past,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,none,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
++,-,ontyczny,nie ma,none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,none,none,that,past,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,epistemiczny,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,?
++,+,epistemiczny,none,none,that,past,E
++,o,czynnościowy,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,none,E
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,"""+/+""",none,that,past,N
+o,o,mówienia,none,none,that,past,N
++,+,percepcyjny,none,none,that,none,E
++,+,epistemiczny,"""+/+""",none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,epistemiczny,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
++,+,epistemiczny,none,none,that,present,?
++,+,percepcyjny,"""+/+""",none,that,past,E
+o,o,mówienia,none,none,that,past,N
+o,o,emotywny,none,none,that,past,?
++,+,epistemiczno-percepcyjny,none,none,that,present,E
++,o,odkrycia,none,none,that,present,E
++,+,mówienia,"""+/+""",none,that,none,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,none,N
+o,o,mówienia,none,none,that,none,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,pokazywania,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,wynikania,none,none,that,present,N
++,o,czynnościowy,none,none,that,past,E
+o,o,mówienia,"""+/+""",none,that,present,?
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,none,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,określające dostęp do wiedzy,none,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,"""+/o""",none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,C
++,+,określające dostęp do wiedzy,"""+/+""",none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,past,N
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,wynikania,nie ma,none,that,present,N
++,-,ontyczny,nie ma,none,that,present,E
++,o,dowodzenia,o/o,none,that,present,E
+o,o,mówienia,none,none,that,past,N
+o,?,mówieniowo-pamięciowy,none,none,that,none,E
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,wynikania,none,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,past,E
++,+,epistemiczny,none,none,that,past,E
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
++,-,ontyczny,nie ma,none,that,past,E
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,none,none,that,past,N
++,+,pamięciowy,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,percepcyjny,none,none,that,past,N
+o,o,mówienia,none,none,that,present,E
+o,o,mówienia,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,none,E
+o,o,mówienia,none,none,that,present,N
++,+,percepcyjny,none,none,that,past,E
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,mówienia,none,none,that,none,E
++,+,mówienia,none,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,none,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,none,none,that,none,E
++,+,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,none,none,that,none,N
+o,o,epistemiczny,none,none,that,none,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,emotywny,none,none,that,past,E
+o,o,mówienia,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,none,N
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,none,none,that,past,E
++,+,epistemiczny,none,none,that,past,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,dowodzenia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,?
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,o,odkrycia,none,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,wynikania,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,past,E
++,+,mówienia,none,none,that,none,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,past,E
+o,o,dowodzenia,"""+/+""",none,that,past,E
+o,o,czynnościowy,o/o,none,that,past,N
++,+,epistemiczny,nie ma,none,that,present,E
++,+,mówienia,nie ma,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,epistemiczny,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,future,C
+o,o,mówienia,none,none,that,none,N
+o,o,mówienia,none,none,that,none,N
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,none,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,?
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,percepcyjny,none,none,that,present,N
+o,o,percepcyjny,none,none,that,past,N
+o,o,percepcyjny,none,none,that,past,N
+o,o,emotywny,none,none,that,present,N
+o,o,dowodzenia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,none,N
+o,o,mówienia,none,none,that,none,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,none,none,that,none,N
++,+,epistemiczny,none,none,that,past,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,future,N
+o,o,epistemiczny,o/o,none,that,past,C
++,+,emotywny,nie ma,none,that,present,E
+o,o,czynnościowy,none,none,that,none,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,none,N
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,none,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
++,o,ontyczny,none,none,that,present,E
++,+,pamięciowy,none,none,that,present,E
++,+,pamięciowy,none,none,that,past,E
++,+,epistemiczny,nie ma,none,that,present,E
+o,o,epistemiczny,nie ma,none,that,present,N
++,+,epistemiczny,none,none,that,past,E
+o,o,mówienia,none,none,that,none,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,C
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,nie ma,none,that,past,N
++,o,odkrycia,none,none,that,present,E
++,+,mówienia,none,none,that,past,?
++,+,epistemiczny,none,none,that,none,N
+o,?,epistemiczny,nie ma,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,pokazywania,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
++,+,czynnościowy,none,none,that,past,E
+o,o,pokazywania,none,none,that,future,N
+o,o,mówienia,"""+/+""",none,that,present,E
++,?,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
++,o,epistemiczny,"""+/+""",none,that,past,E
++,?,epistemiczny,none,none,that,past,E
++,+,percepcyjny,"""+/+""",none,that,present,E
++,+,pamięciowy,none,none,that,none,E
+o,o,wynikania,none,none,that,present,N
+o,o,wynikania,none,none,that,none,N
+o,o,epistemiczny,o/o,none,that,present,?
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,none,N
++,o,dowodzenia,none,none,that,past,E
++,+,emotywny,none,none,that,present,E
+o,o,epistemiczny,nie ma,none,that,past,N
+o,o,mówienia,"""+/+""",none,that,future,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
++,o,odkrycia,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,future,N
++,o,ontyczny,none,none,that,present,E
++,+,pamięciowy,none,none,that,past,E
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,o/+,none,that,past,N
++,+,pamięciowy,none,none,that,present,E
+o,?,mówienia,none,none,that,present,E
+o,o,mówienia,o/+,none,that,present,N
++,+,pamięciowy,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
++,+,pamięciowy,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,none,N
+o,o,wynikania,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,emotywny,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,future,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,?,N
+o,o,mówienia,o/o,none,that,present,?
+o,o,mówienia,none,none,that,none,N
+o,o,epistemiczny,nie ma,none,that,none,N
+o,o,mówienia,none,none,that,none,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,none,none,that,none,N
+o,o,epistemiczny,none,none,that,none,C
+o,o,epistemiczny,none,none,that,none,N
+o,o,epistemiczny,none,none,that,none,N
+o,o,mówienia,none,none,that,none,N
+o,o,epistemiczny,none,none,that,none,C
++,+,epistemiczny,none,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,none,E
+-,+,określające dostęp do wiedzy,none,none,that,future,C
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,o/+,none,that,present,N
+o,o,dowodzenia,none,none,that,past,N
+o,o,dowodzenia,none,none,that,present,N
++,o,czynnościowy,none,none,that,past,E
++,o,odkrycia,none,none,that,past,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,past,N
+o,o,wynikania,none,none,that,none,N
++,o,czynnościowy,none,none,that,present,E
++,+,emotywny,o/o,none,that,present,E
+o,+,epistemiczny,none,none,that,present,N
+o,o,mówienia,none,none,that,none,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,present,N
++,?,mówienia,none,none,that,present,E
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,none,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,none,N
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,none,N
+o,o,epistemiczny,"""+/+""",none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
++,?,epistemiczny,none,none,that,present,E
+o,o,mówienia,nie ma,none,that,none,N
++,+,epistemiczny,nie ma,none,that,present,E
++,+,epistemiczno-percepcyjny,none,none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,N
+o,o,mówienia,none,none,that,past,N
++,o,czynnościowy,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
++,o,ontyczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,?
+-,+,określające dostęp do wiedzy,none,none,that,none,C
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,o,odkrycia,none,none,that,none,E
++,?,odkrycia,"""+/+""",none,that,past,E
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,none,none,that,past,N
++,+,pamięciowy,none,none,that,past,E
++,+,percepcyjny,none,none,that,past,E
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,epistemiczny,none,none,that,past,N
+o,o,epistemiczny,none,none,that,past,E
+o,o,emotywny,none,none,that,present,N
++,+,pamięciowy,none,none,that,none,E
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,mówienia,none,none,that,present,N
++,o,czynnościowy,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,C
++,+,epistemiczny,none,none,that,none,E
+-,+,określające dostęp do wiedzy,none,none,that,none,C
++,?,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,past,E
+o,o,mówienia,none,none,that,past,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,N
++,+,percepcyjny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,?,emotywny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,C
++,+,pamięciowy,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
++,+,emotywny,nie ma,none,that,past,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
++,+,emotywny,nie ma,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,none,none,that,present,E
++,+,pamięciowy,none,none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,emotywny,none,none,that,present,N
++,-,ontyczny,nie ma,none,that,present,E
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,?,epistemiczny,nie ma,none,that,present,N
+o,?,epistemiczny,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,o,odkrycia,nie ma,none,that,future,?
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,mówienia,none,none,that,present,N
++,+,pamięciowy,none,none,that,present,E
+o,o,wynikania,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,past,N
++,o,odkrycia,nie ma,none,that,present,E
++,o,odkrycia,nie ma,none,that,present,E
++,o,odkrycia,nie ma,none,that,present,E
++,o,odkrycia,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,future,N
+o,o,mówienia,none,none,that,present,N
++,o,epistemiczny,nie ma,none,that,past,E
++,+,pamięciowy,none,none,that,none,E
++,+,pamięciowy,none,none,that,none,E
+o,+,epistemiczny,nie ma,none,that,past,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,none,none,that,none,N
++,+,mówienia,nie ma,none,that,present,E
+o,o,mówienia,none,none,that,none,N
+o,o,pokazywania,none,none,that,future,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,past,E
+-,+,określające dostęp do wiedzy,none,none,that,past,C
+o,o,czynnościowy,o/o,none,that,past,N
+o,o,czynnościowy,o/o,none,that,past,N
+o,o,epistemiczny,nie ma,none,that,none,N
++,+,mówienia,none,none,that,present,E
+o,o,mówienia,none,none,that,past,N
++,?,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,E
++,+,mówienia,nie ma,none,that,present,E
+o,o,wynikania,"""+/o""",none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,liczenia,none,none,that,past,N
+o,o,mówienia,"""+/o""",none,that,present,N
+o,o,mówienia,none,none,that,future,?
+o,o,mówienia,none,none,that,none,?
++,+,mówienia,none,none,that,future,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,?
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,o,odkrycia,none,none,that,past,E
+o,o,mówienia,none,none,that,past,N
++,o,odkrycia,none,none,that,past,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
++,+,emotywny,nie ma,none,that,present,E
+o,1,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
++,o,czynnościowy,o/o,none,that,past,E
+o,o,wnioskowania,nie ma,none,that,past,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,dowodzenia,nie ma,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,dowodzenia,o/o,none,that,present,N
+o,o,epistemiczny,o/+,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczno-percepcyjny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
++,o,czynnościowy,none,none,that,present,E
+-,+,określające dostęp do wiedzy,nie ma,none,that,present,C
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,czynnościowy,"""+/o""",none,that,present,E
+o,o,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,past,N
+o,o,mówienia,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
++,o,ontyczny,none,none,that,present,E
+o,o,wnioskowania,nie ma,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,1,mówienia,nie ma,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,C
+o,o,wynikania,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,present,E
++,o,odkrycia,none,none,that,past,E
++,o,odkrycia,none,none,that,past,E
+o,o,mówienia,nie ma,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,o,odkrycia,nie ma,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,czynnościowy,o/o,none,that,past,N
+o,1,mówienia,nie ma,none,that,past,N
+o,o,wynikania,none,none,that,present,N
++,+,mówienia,nie ma,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,none,none,that,past,N
++,+,emotywny,nie ma,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/+,none,that,present,N
+o,o,dowodzenia,none,none,that,present,E
+-,-,epistemiczny,nie ma,none,that,none,C
+o,o,mówienia,none,none,that,present,E
+o,o,mówienia,none,none,that,present,E
+o,?,mówienia,nie ma,none,that,present,E
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
++,+,pamięciowy,nie ma,none,that,present,E
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,mówienia,"""+/+""",none,that,present,N
+o,o,percepcyjno-mówieniowy,o/o,none,that,past,N
++,+,pamięciowy,nie ma,none,that,present,E
+o,o,dowodzenia,o/o,none,that,present,E
+o,1,mówienia,nie ma,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
++,-,ontyczny,o/o,none,that,present,E
+o,o,wynikania,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,+,emotywny,none,none,that,present,E
++,+,percepcyjny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,pamięciowy,nie ma,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,future,N
++,o,odkrycia,none,none,that,past,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,past,N
+o,o,mówienia,o/+,none,that,past,N
++,+,emotywny,nie ma,none,that,present,E
++,+,emotywny,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,o,odkrycia,nie ma,none,that,past,E
+o,o,epistemiczny,o/+,none,that,present,N
+o,o,wynikania,"""+/o""",none,that,past,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,C
++,+,epistemiczny,none,none,that,past,E
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,past,N
++,o,odkrycia,nie ma,none,that,past,E
++,+,odkrycia,nie ma,none,that,past,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,past,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,"""+/+""",none,that,present,N
++,+,percepcyjny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,?,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+-,+,określające dostęp do wiedzy,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,o,odkrycia,none,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,o,epistemiczny,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,?,epistemiczny,none,none,that,present,E
+o,o,czynnościowy,o/o,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,present,N
++,+,epistemiczny,none,none,that,past,E
+o,o,mówienia,o/o,none,that,present,N
+o,+,epistemiczny,nie ma,none,that,?,E
+o,o,mówienia,"""+/+""",none,that,present,N
+o,?,mówienia,none,none,that,past,E
++,+,epistemiczny,none,none,that,past,E
++,+,emotywny,none,none,that,past,E
+o,?,mówienia,none,none,that,past,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,none,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/+,none,that,present,E
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,past,E
+o,o,epistemiczny,o/o,none,that,past,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
++,+,mówienia,"""+/+""",none,that,none,E
+o,o,mówienia,"""+/+""",none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,past,E
++,+,określające dostęp do wiedzy,nie ma,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,pokazywania,"""+/o""",none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,mówienia,none,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,none,E
+o,o,epistemiczny,none,none,that,?,N
++,+,epistemiczny,nie ma,none,that,present,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,wynikania,"""+/o""",none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,none,none,that,present,N
+o,1,mówienia,nie ma,none,that,past,E
+o,o,wnioskowania,nie ma,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
++,+,mówienia,nie ma,none,that,past,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,o,dowodzenia,"""+/o""",none,that,present,E
++,o,dowodzenia,o/o,none,that,present,E
++,+,mówienia,nie ma,none,that,present,N
++,+,mówienia,nie ma,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,mówienia,nie ma,none,that,none,E
+o,o,mówienia,o/o,none,that,present,?
++,+,mówienia,nie ma,none,that,present,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,o/+,none,that,past,E
++,+,epistemiczny,nie ma,none,that,present,E
++,+,epistemiczno-percepcyjny,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,o,epistemiczny,nie ma,none,that,present,N
++,o,odkrycia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,dowodzenia,"""+/o""",none,that,future,N
++,?,epistemiczny,none,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,past,E
++,+,percepcyjny,o/o,none,that,past,?
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
++,?,odkrycia,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,N
++,+,pamięciowy,none,none,that,present,E
+o,o,mówienia,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
++,?,odkrycia,"""+/+""",none,that,past,E
+o,o,epistemiczny,none,none,that,present,?
+o,o,mówienia,"""+/+""",none,that,past,N
+o,o,wnioskowania,"""+/o""",none,that,past,N
+-,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,future,N
++,+,percepcyjny,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
++,o,odkrycia,nie ma,none,that,present,E
+o,o,pokazywania,"""+/o""",none,that,present,E
+o,o,czynnościowy,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,past,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/+,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,czynnościowy,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/+,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
++,+,mówienia,o/+,none,that,past,N
+o,o,wynikania,"""+/o""",none,that,present,N
+o,o,wnioskowania,nie ma,none,that,present,N
++,+,mówieniowo-pamięciowy,"""+/+""",none,that,?,E
+o,o,epistemiczny,o/o,none,that,present,N
++,?,mówienia,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
++,+,epistemiczno-percepcyjny,"""+/+""",none,that,present,E
+o,o,czynnościowy,o/o,none,that,none,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,odkrycia,nie ma,none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,wynikania,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,past,E
++,?,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,czynnościowy,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,percepcyjny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/+,none,that,past,N
+o,o,mówienia,o/+,none,that,none,N
++,+,określające dostęp do wiedzy,nie ma,none,that,future,E
++,+,mówieniowo-pamięciowy,nie ma,none,that,past,E
++,+,mówieniowo-pamięciowy,nie ma,none,that,past,E
+o,o,mówienia,"""+/o""",none,that,past,N
++,+,pamięciowy,"""+/+""",none,that,none,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,present,C
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,past,E
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,none,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,1,mówienia,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,o/+,none,that,present,N
+o,o,mówienia,o/+,none,that,?,N
++,+,emotywny,nie ma,none,that,present,E
+o,o,czynnościowy,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,past,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,E
+o,o,epistemiczny,nie ma,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,future,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/+,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,nie ma,none,that,?,N
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,"""+/o""",none,that,present,E
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,?,mówienia,nie ma,none,that,present,N
++,+,określające dostęp do wiedzy,nie ma,none,that,present,E
+o,o,pokazywania,"""+/o""",none,that,none,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,none,N
+o,o,mówienia,o/o,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,?,mówienia,o/o,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,mówieniowo-pamięciowy,"""+/+""",none,that,none,E
++,?,epistemiczny,"""+/+""",none,that,past,E
+o,o,percepcyjny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,?,mówienia,nie ma,none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,wynikania,o/o,none,that,present,N
+o,?,mówienia,nie ma,none,that,present,N
+o,o,percepcyjno-mówieniowy,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,future,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,percepcyjno-mówieniowy,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,N
++,?,percepcyjny,"""+/+""",none,that,present,E
++,+,percepcyjny,"""+/+""",none,that,present,E
+o,o,percepcyjny,o/o,none,that,past,N
+o,o,pokazywania,"""+/o""",none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,?
++,+,pamięciowy,nie ma,none,that,present,E
+o,o,epistemiczny,o/+,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,o,dowodzenia,o/o,none,that,past,?
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,wynikania,nie ma,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,emotywny,nie ma,none,that,present,E
++,?,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/+,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,present,N
+o,o,mówienia,"""+/o""",none,that,present,N
+o,o,liczenia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,zdarzeniowy,o/o,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,liczenia,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,mówieniowo-pamięciowy,nie ma,none,that,none,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,none,N
++,+,epistemiczny,nie ma,none,that,past,E
+o,o,wynikania,o/o,none,that,past,C
+o,o,epistemiczny,o/o,none,that,none,N
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,epistemiczny,nie ma,none,that,past,C
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,"""+/o""",none,that,present,N
+o,o,mówienia,o/+,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,wynikania,"""+/o""",none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,liczenia,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,past,E
++,+,określające dostęp do wiedzy,nie ma,none,that,none,E
++,o,odkrycia,"""+/o""",none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,wynikania,"""+/o""",none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
++,+,mówieniowo-pamięciowy,nie ma,none,that,none,E
++,+,mówieniowo-pamięciowy,nie ma,none,that,none,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,mówienia,"""+/+""",none,that,past,N
+o,o,percepcyjny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,?,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,?
+o,o,mówienia,o/+,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,nie ma,none,that,none,E
+o,o,dowodzenia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
++,+,epistemiczny,nie ma,none,that,past,E
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,none,N
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,czynnościowy,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,none,N
+o,o,epistemiczny,o/o,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,mówienia,o/+,none,that,none,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,emotywny,none,none,that,present,N
++,?,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,1,mówienia,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,czynnościowy,o/o,none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,future,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,o,odkrycia,nie ma,none,that,past,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,dowodzenia,"""+/o""",none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,+,epistemiczny,nie ma,none,that,none,E
++,+,mówieniowo-pamięciowy,nie ma,none,that,past,E
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,?,mówienia,o/+,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,o,odkrycia,nie ma,none,that,past,E
+o,o,percepcyjno-mówieniowy,o/o,none,that,present,N
+o,o,pokazywania,"""+/o""",none,that,present,N
++,?,odkrycia,"""+/+""",none,that,past,?
+o,o,percepcyjno-mówieniowy,nie ma,none,that,present,?
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,past,C
+o,o,mówienia,"""+/+""",none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/+,none,that,present,N
+o,o,dowodzenia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,dowodzenia,o/o,none,that,past,N
++,+,epistemiczny,nie ma,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,+,epistemiczny,nie ma,none,that,none,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,none,N
+o,o,mówienia,o/o,none,that,present,C
+o,o,mówienia,nie ma,none,that,past,N
+o,o,percepcyjny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,future,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,?,mówienia,o/+,none,that,none,E
+o,o,mówienia,o/+,none,that,future,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,nie ma,none,that,past,E
++,+,określające dostęp do wiedzy,nie ma,none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,?
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,emotywny,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,emotywny,o/o,none,that,present,N
+o,o,emotywny,o/o,none,that,present,N
+o,o,emotywny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówieniowo-pamięciowy,nie ma,none,that,none,E
+o,o,mówienia,o/o,none,that,none,N
++,+,pamięciowy,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,wynikania,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,emotywny,o/o,none,that,none,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,none,N
+-,+,określające dostęp do wiedzy,nie ma,none,that,present,C
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,nie ma,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczno-percepcyjny,"""+/o""",none,that,present,E
++,+,pamięciowy,"""+/+""",none,that,future,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,pokazywania,"""+/o""",none,that,none,N
+o,o,epistemiczny,o/o,none,that,past,?
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,mówienia,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,none,N
+o,o,mówienia,o/o,none,that,present,N
++,o,odkrycia,nie ma,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+-,-,epistemiczny,nie ma,none,that,past,C
+o,o,epistemiczny,o/o,none,that,past,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,o/o,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,1,mówienia,"""+/+""",none,that,none,N
+o,o,mówienia,nie ma,none,that,present,?
++,+,epistemiczny,nie ma,none,that,past,E
+o,o,mówienia,o/o,none,that,?,N
+o,o,epistemiczny,o/o,none,that,past,C
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,o/+,none,that,past,E
++,?,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczno-percepcyjny,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,none,N
+o,o,epistemiczny,o/+,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,?,epistemiczny,nie ma,none,that,past,N
+o,?,ontyczny,o/o,none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
++,o,ontyczny,nie ma,none,that,past,E
+o,o,mówienia,nie ma,none,that,past,?
+o,o,mówienia,o/o,none,that,past,N
+o,?,mówieniowo-pamięciowy,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,?
+o,o,mówienia,o/o,none,that,past,?
+o,+,epistemiczny,nie ma,none,that,none,E
+o,o,mówienia,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,none,N
++,o,mówienia,nie ma,none,that,present,E
+o,o,mówienia,nie ma,none,that,present,?
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczno-percepcyjny,"""+/+""",none,that,present,E
++,o,ontyczny,nie ma,none,that,present,E
++,o,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,percepcyjny,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,past,C
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
++,+,epistemiczny,nie ma,none,that,past,E
++,+,epistemiczny,nie ma,none,that,past,E
+o,?,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,percepcyjny,o/o,none,that,present,N
++,+,epistemiczny,nie ma,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,percepcyjny,o/o,none,that,past,E
++,+,epistemiczny,o/o,none,that,past,E
++,+,epistemiczny,o/o,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,none,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,percepcyjny,nie ma,none,that,past,N
+o,?,mówienia,"""+/+""",none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,none,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,?,epistemiczny,nie ma,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,none,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,epistemiczny,o/o,none,that,past,C
++,+,epistemiczny,"""+/+""",none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,mówienia,o/o,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,mówienia,"""+/+""",none,that,?,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,epistemiczny,o/o,none,that,past,?
+o,o,mówienia,o/o,none,that,present,N
++,o,odkrycia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,epistemiczny,o/o,none,that,past,C
++,+,mówienia,"""+/+""",none,that,present,E
++,+,mówienia,nie ma,none,that,past,E
+o,o,epistemiczny,o/o,none,that,past,C
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,?,C
++,+,percepcyjny,"""+/+""",none,that,present,E
++,+,epistemiczny,nie ma,none,that,?,E
+?,?,epistemiczny,nie ma,none,that,?,E
+o,o,epistemiczny,none,none,that,present,C
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,?
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,nie ma,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,past,E
+o,o,mówienia,"""+/+""",none,that,past,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
+-,-,epistemiczny,nie ma,none,that,past,C
+-,-,epistemiczny,nie ma,none,that,past,C
+o,o,percepcyjny,none,none,that,past,N
++,+,epistemiczny,none,none,that,past,?
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,epistemiczny,none,none,that,past,N
++,+,epistemiczny,nie ma,none,that,future,E
+o,?,mówienia,nie ma,none,that,past,?
+o,o,mówienia,o/o,none,that,past,N
+-,o,mówienia,none,none,that,past,C
+-,o,mówienia,none,none,that,none,N
++,+,epistemiczny,"""+/+""",none,that,?,E
++,+,percepcyjny,none,none,that,present,E
+-,+,określające dostęp do wiedzy,nie ma,none,that,future,C
++,?,epistemiczny,none,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,pokazywania,"""+/o""",none,that,none,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,nie ma,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,dowodzenia,o/o,none,that,present,N
++,+,określające dostęp do wiedzy,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,N
++,?,epistemiczny,none,none,that,past,E
+o,o,epistemiczny,none,none,that,past,N
++,+,emotywny,nie ma,none,that,none,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,?,E
+o,o,epistemiczny,o/o,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
++,+,mówienia,"""+/+""",none,that,present,E
+o,?,mówienia,none,none,that,present,?
+o,+,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,none,none,that,past,N
+o,o,epistemiczny,"""+/+""",none,that,future,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,percepcyjny,none,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,mówienia,none,none,that,present,E
+o,o,epistemiczny,nie ma,none,that,past,N
+o,?,mówienia,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,future,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,percepcyjny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,?,N
++,+,mówienia,nie ma,none,that,present,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,czynnościowy,o/o,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,none,none,that,none,E
++,+,pamięciowy,none,none,that,past,E
+o,o,czynnościowy,nie ma,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,nie ma,none,that,present,E
+o,o,emotywny,none,none,that,present,N
++,+,epistemiczny,nie ma,none,that,present,E
+o,o,epistemiczny,none,none,that,present,N
++,?,odkrycia,"""+/+""",none,that,past,E
+o,o,epistemiczny,o/o,none,that,past,N
++,o,odkrycia,none,none,that,past,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,past,E
+o,o,czynnościowy,o/o,none,that,past,N
++,+,emotywny,nie ma,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+-,o,mówienia,none,none,that,present,C
+o,o,mówienia,none,none,that,present,N
+o,?,mówienia,none,none,that,past,N
++,+,epistemiczny,none,none,that,present,E
+o,o,czynnościowy,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
++,+,epistemiczny,none,none,that,past,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,none,none,that,past,C
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,nie ma,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
++,+,percepcyjny,none,none,that,past,E
++,+,epistemiczny,nie ma,none,that,past,E
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,epistemiczny,o/o,none,that,past,E
++,o,dowodzenia,o/o,none,that,none,N
+o,o,mówienia,none,none,that,past,N
++,+,percepcyjny,none,none,that,past,E
++,+,epistemiczny,none,none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,emotywny,nie ma,none,that,present,E
++,+,pamięciowy,"""+/+""",none,that,past,E
++,+,pamięciowy,none,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,?
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,C
++,+,epistemiczny,none,none,that,past,E
++,+,percepcyjny,nie ma,none,that,past,E
++,+,percepcyjny,nie ma,none,that,past,E
+o,o,epistemiczny,none,none,that,past,C
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,epistemiczny,o/o,none,that,past,E
++,+,epistemiczny,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,N
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,nie ma,none,that,?,E
+o,+,epistemiczny,o/o,none,that,past,E
+o,o,epistemiczny,none,none,that,present,N
++,+,epistemiczny,nie ma,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,?,mówienia,nie ma,none,that,present,?
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,?
+o,o,mówienia,o/o,none,that,past,C
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+-,o,mówienia,none,none,that,none,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,C
+o,o,mówienia,none,none,that,past,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,emotywny,none,none,that,past,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,pokazywania,"""+/o""",none,that,present,E
+o,o,pokazywania,"""+/o""",none,that,?,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
++,+,epistemiczno-percepcyjny,none,none,that,none,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,future,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,percepcyjny,none,none,that,past,N
+o,o,percepcyjny,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,"""+/+""",none,that,past,N
+o,o,mówienia,"""+/+""",none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/o,none,that,future,N
+o,o,epistemiczny,o/o,none,that,present,N
+-,+,określające dostęp do wiedzy,nie ma,none,that,future,C
+o,o,mówienia,o/o,none,that,present,N
++,o,odkrycia,nie ma,none,that,past,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,+,percepcyjny,none,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,percepcyjny,nie ma,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,past,N
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,none,N
++,?,mówienia,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,?
+o,o,czynnościowy,o/o,none,that,past,?
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,o/o,none,that,future,N
+o,o,mówienia,o/o,none,that,present,N
++,+,emotywny,nie ma,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,percepcyjny,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,none,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,o,epistemiczny,"""+/+""",none,that,present,?
+o,o,mówienia,o/o,none,that,?,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,pokazywania,"""+/o""",none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,none,E
+o,o,mówienia,none,none,that,none,N
+o,o,epistemiczny,o/o,none,that,present,N
++,?,epistemiczny,none,none,that,past,E
++,?,epistemiczny,none,none,that,past,E
++,+,epistemiczny,none,none,that,present,E
++,+,czynnościowy,nie ma,none,that,past,N
++,+,mówienia,o/+,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,none,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
++,o,odkrycia,none,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
++,+,epistemiczny,nie ma,none,that,present,?
+o,o,mówienia,"""+/+""",none,that,future,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,o,epistemiczny,"""+/+""",none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/+,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,liczenia,o/o,none,that,past,N
+o,o,liczenia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,?
+o,o,wynikania,"""+/o""",none,that,present,N
++,+,określające dostęp do wiedzy,nie ma,none,that,past,E
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,o,dowodzenia,nie ma,none,that,past,E
+o,o,mówienia,o/o,none,that,none,N
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,none,N
++,+,emotywny,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/+,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,none,N
+o,o,mówienia,none,none,that,present,N
+o,o,percepcyjny,none,none,that,present,N
+o,o,wynikania,none,none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,none,N
+o,o,dowodzenia,o/o,none,that,present,N
+o,o,dowodzenia,o/o,none,that,present,N
+o,o,dowodzenia,o/o,none,that,present,N
+o,o,wynikania,none,none,that,present,N
+o,?,mówienia,o/+,none,that,past,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,mówienia,o/+,none,that,past,N
+o,o,dowodzenia,o/o,none,that,none,N
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,past,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,o,odkrycia,none,none,that,past,E
++,+,mówienia,nie ma,none,that,past,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,emotywny,o/o,none,that,past,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,liczenia,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,present,?
++,+,pamięciowy,"""+/+""",none,that,present,E
+o,o,wynikania,"""+/o""",none,that,present,N
++,+,epistemiczny,nie ma,none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,N
++,+,epistemiczny,nie ma,none,that,past,E
+o,o,epistemiczny,nie ma,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,?,epistemiczny,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,none,none,that,past,?
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,none,none,that,none,E
++,o,odkrycia,nie ma,none,that,present,E
++,+,emotywny,nie ma,none,that,present,E
+o,o,wynikania,o/o,none,that,present,N
++,o,epistemiczny,"""+/+""",none,that,present,?
++,o,epistemiczny,"""+/+""",none,that,present,?
+o,o,mówienia,none,none,that,present,N
++,+,emotywny,none,none,that,past,E
+o,o,mówienia,nie ma,none,that,past,?
+o,o,mówienia,o/o,none,that,present,N
++,o,czynnościowy,o/o,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
++,+,mówieniowo-pamięciowy,"""+/+""",none,that,none,E
++,+,określające dostęp do wiedzy,nie ma,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,nie ma,none,that,past,E
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
++,+,pamięciowy,"""+/+""",none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,wynikania,none,none,that,present,N
++,+,mówienia,nie ma,none,that,none,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
++,+,epistemiczny,none,none,that,past,E
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
++,?,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,wynikania,nie ma,none,that,past,E
+o,o,wynikania,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,none,none,that,present,E
+o,o,mówienia,none,none,that,past,N
++,+,mówienia,nie ma,none,that,past,E
++,+,epistemiczny,none,none,that,present,E
+o,o,percepcyjno-mówieniowy,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,mówienia,o/+,none,that,past,N
+o,o,pokazywania,"""+/o""",none,that,present,E
++,+,epistemiczny,none,none,that,past,E
++,+,określające dostęp do wiedzy,nie ma,none,that,past,E
++,-,ontyczny,nie ma,none,that,present,E
++,o,czynnościowy,o/o,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+-,o,mówienia,o/o,none,that,present,N
+o,?,mówienia,o/o,none,that,present,N
+o,?,mówienia,o/o,none,that,present,N
+o,o,dowodzenia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,wnioskowania,nie ma,none,that,past,?
+o,o,wnioskowania,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/+,none,that,past,N
++,o,czynnościowy,o/o,none,that,past,E
+o,o,epistemiczny,o/o,none,that,past,N
++,+,epistemiczny,none,none,that,past,E
+o,o,mówienia,none,none,that,past,N
++,-,ontyczny,nie ma,none,that,past,E
++,+,epistemiczno-percepcyjny,nie ma,none,that,none,E
+o,o,epistemiczny,none,none,that,present,N
+o,?,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,wynikania,"""+/o""",none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,+,pamięciowy,"""+/+""",none,that,none,E
+o,o,pokazywania,"""+/o""",none,that,past,E
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,o,czynnościowy,nie ma,none,that,present,E
++,+,percepcyjny,none,none,that,none,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,present,N
++,o,epistemiczny,o/o,none,that,present,E
++,o,dowodzenia,o/o,none,that,?,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
++,o,dowodzenia,o/o,none,that,past,E
+o,o,mówienia,o/o,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,none,E
++,+,określające dostęp do wiedzy,nie ma,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,czynnościowy,o/o,none,that,past,N
++,+,epistemiczny,none,none,that,present,E
++,o,odkrycia,nie ma,none,that,past,E
++,+,epistemiczny,nie ma,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
++,+,określające dostęp do wiedzy,nie ma,none,that,present,E
++,o,odkrycia,none,none,that,past,E
+o,o,czynnościowy,o/o,none,that,past,N
+o,?,mówieniowo-pamięciowy,none,none,that,none,E
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,C
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,o/+,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,+,określające dostęp do wiedzy,nie ma,none,that,present,E
+o,o,mówienia,none,none,that,past,N
+o,o,czynnościowy,o/o,none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,liczenia,none,none,that,present,N
++,+,epistemiczny,nie ma,none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,past,E
++,+,epistemiczny,none,none,that,past,E
++,?,mówienia,nie ma,none,that,past,?
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
++,+,emotywny,nie ma,none,that,?,E
+o,o,mówienia,none,none,that,none,N
++,+,mówienia,nie ma,none,that,past,E
+o,o,mówienia,none,none,that,past,N
++,+,epistemiczny,none,none,that,present,E
++,+,percepcyjny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,?,epistemiczny,none,none,that,none,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,?,epistemiczny,"""+/+""",none,that,present,E
+o,o,dowodzenia,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,nie ma,none,that,present,N
++,+,emotywny,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,określające dostęp do wiedzy,nie ma,none,that,past,E
+o,o,epistemiczny,o/+,none,that,past,N
++,o,dowodzenia,o/o,none,that,none,N
++,o,odkrycia,nie ma,none,that,present,E
+o,?,mówienia,none,none,that,past,E
++,+,pamięciowy,none,none,that,past,E
+o,o,mówienia,o/+,none,that,past,E
+o,o,epistemiczny,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,C
++,+,epistemiczny,none,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,none,N
+o,o,mówienia,nie ma,none,that,present,E
+o,o,mówienia,none,none,that,present,N
++,-,ontyczny,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,pamięciowy,"""+/+""",none,that,none,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+-,+,określające dostęp do wiedzy,nie ma,none,that,present,C
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,?,epistemiczny,none,none,that,none,E
++,+,emotywny,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
++,?,epistemiczny,none,none,that,none,E
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,nie ma,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
++,+,pamięciowy,none,none,that,none,E
++,+,epistemiczny,"""+/+""",none,that,past,E
+o,o,epistemiczny,nie ma,none,that,none,N
+o,o,mówienia,none,none,that,present,N
++,o,dowodzenia,o/o,none,that,past,E
+o,o,mówienia,none,none,that,past,N
++,o,czynnościowy,o/o,none,that,present,E
++,+,mówienia,none,none,that,past,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,none,none,that,past,N
++,+,pamięciowy,"""+/+""",none,that,none,E
++,+,epistemiczny,none,none,that,past,E
+o,o,epistemiczny,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,?
+o,o,epistemiczny,o/o,none,that,present,?
+o,o,wynikania,o/o,none,that,present,N
+o,o,wynikania,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,mówienia,o/+,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,percepcyjny,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,o,odkrycia,nie ma,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,pokazywania,"""+/o""",none,that,past,N
+o,o,epistemiczny,none,none,that,past,N
+-,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,"""+/+""",none,that,present,N
+o,o,mówienia,nie ma,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
++,+,epistemiczny,nie ma,none,that,past,E
+o,o,wynikania,none,none,that,present,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,wynikania,none,none,that,present,N
++,o,odkrycia,nie ma,none,that,past,E
+o,o,mówienia,none,none,that,present,E
+o,o,mówienia,none,none,that,past,N
++,o,czynnościowy,o/o,none,that,past,E
+o,o,epistemiczny,o/o,none,that,present,N
++,?,epistemiczny,none,none,that,none,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
++,+,epistemiczny,none,none,that,none,E
++,o,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,none,none,that,past,N
+o,o,mówienia,"""+/+""",none,that,past,N
+o,o,epistemiczny,none,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,?,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,percepcyjny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
+o,o,liczenia,nie ma,none,that,past,N
++,o,epistemiczny,"""+/+""",none,that,none,?
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,+,mówienia,nie ma,none,that,past,E
+o,o,epistemiczny,o/o,none,that,future,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,C
++,+,emotywny,nie ma,none,that,present,E
+o,o,mówienia,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,emotywny,nie ma,none,that,present,E
++,+,czynnościowy,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,pokazywania,"""+/o""",none,that,present,E
++,o,ontyczny,none,none,that,present,E
+o,o,mówienia,nie ma,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,1,mówienia,nie ma,none,that,past,N
+o,o,epistemiczny,none,none,that,none,N
++,+,epistemiczny,none,none,that,present,E
+o,o,pokazywania,"""+/o""",none,that,past,N
+o,o,epistemiczny,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,wynikania,nie ma,none,that,present,N
+o,o,epistemiczny,nie ma,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,mówienia,nie ma,none,that,present,?
+o,o,mówienia,none,none,that,past,N
++,+,epistemiczny,none,none,that,present,E
+o,o,mówienia,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,C
+o,o,wnioskowania,nie ma,none,that,present,N
+o,o,epistemiczny,none,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
+o,o,mówienia,nie ma,none,that,past,N
++,+,mówieniowo-pamięciowy,nie ma,none,that,present,E
++,+,epistemiczny,none,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,present,N
++,+,mówienia,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,pokazywania,"""+/o""",none,that,present,N
+o,o,pokazywania,"""+/o""",none,that,past,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,none,none,that,none,N
++,+,emotywny,nie ma,none,that,present,N
++,+,epistemiczny,nie ma,none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,C
++,+,pamięciowy,"""+/+""",none,that,none,E
+o,o,epistemiczny,o/o,none,that,present,?
++,o,dowodzenia,o/o,none,that,present,E
++,+,mówienia,o/+,none,that,present,?
++,+,mówienia,nie ma,none,that,none,?
+o,o,mówienia,none,none,that,past,N
+o,o,epistemiczny,none,none,that,none,C
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,none,none,that,present,E
++,?,odkrycia,none,none,that,past,E
++,+,mówieniowo-pamięciowy,nie ma,none,that,none,E
+o,o,mówienia,nie ma,none,that,present,?
+o,o,mówienia,none,none,that,present,N
+o,?,mówienia,none,none,that,none,N
+o,o,mówienia,none,none,that,none,N
+o,o,mówienia,none,none,that,none,N
+o,o,mówienia,o/o,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,future,N
+o,o,epistemiczny,o/o,none,that,present,N
++,o,odkrycia,nie ma,none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,none,none,that,future,E
++,+,epistemiczny,none,none,that,future,E
++,+,epistemiczny,none,none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,future,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,none,none,that,past,N
+o,o,wynikania,"""+/o""",none,that,present,N
+o,o,epistemiczny,o/o,none,that,past,N
++,+,epistemiczny,nie ma,none,that,past,N
++,+,epistemiczny,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,present,N
++,+,percepcyjny,"""+/+""",none,that,past,E
++,+,epistemiczny,nie ma,none,that,past,E
+o,o,mówienia,"""+/+""",none,that,past,E
+o,o,wynikania,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,określające dostęp do wiedzy,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,present,N
++,o,mówienia,nie ma,none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,"""+/o""",none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
++,+,epistemiczny,"""+/+""",none,that,present,E
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,czynnościowy,o/o,none,that,past,N
+o,o,mówienia,"""+/+""",none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,mówienia,nie ma,none,that,past,N
+o,o,epistemiczny,o/o,none,that,present,N
++,+,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,o/+,none,that,present,N
+o,o,epistemiczny,o/o,none,that,present,N
+o,o,mówienia,"""+/o""",none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
+o,o,mówienia,o/o,none,that,present,N
++,o,epistemiczny,"""+/+""",none,that,past,E
+o,o,percepcyjny,o/o,none,that,past,N
+o,o,mówienia,o/o,none,that,past,N
++,-,ontyczny,nie ma,none,that,past,E
+o,o,mówienia,o/o,none,that,past,N
+o,o,mówienia,"""+/+""",none,that,past,?
+o,o,mówienia,"""+/+""",none,that,present,N
+o,o,mówienia,"""+/+""",none,that,past,E
+o,o,pokazywania,"""+/o""",none,that,present,E
+o,o,mówienia,"""+/+""",none,that,past,E
+o,o,mówienia,"""+/+""",none,that,past,E
+o,o,mówienia,"""+/+""",none,that,none,E
+o,o,czynnościowy,o/o,none,that,past,N
+o,o,mówienia,"""+/+""",none,that,past,E
+o,o,mówienia,"""+/+""",none,that,present,E
+o,o,mówienia,"""+/+""",none,that,present,N
+o,?,mówienia,"""+/+""",none,that,present,N
++,o,epistemiczny,"""+/+""",none,that,present,E
+o,o,mówienia,"""+/+""",none,that,none,E
+o,o,mówienia,"""+/+""",none,that,past,E
++,+,emotywny,none,none,to,present,E
++,o,odkrycia,none,none,to,past,E
++,o,odkrycia,none,none,to,present,E
++,o,czynnościowy,none,o/o,to,present,E
++,o,dowodzenia,none,none,to,past,E
++,o,odkrycia,none,none,to,past,E
++,+,mówienia,none,none,to,present,E
+o,o,mówienia,none,none,to,none,N
+-,+,określające dostęp do wiedzy,none,none,to,past,C
+o,o,epistemiczny,none,none,to,present,N
++,o,czynnościowy,none,none,to,present,N
+-,+,określające dostęp do wiedzy,none,none,to,present,C
++,o,czynnościowy,none,none,to,none,E
++,o,odkrycia,none,none,to,present,N
++,o,odkrycia,none,none,to,past,E
+o,o,czynnościowy,none,none,to,past,N
+o,o,epistemiczny,none,none,to,present,N
++,+,epistemiczny,none,none,to,past,E
+o,o,mówienia,none,none,to,past,N
++,o,odkrycia,none,none,to,present,E
++,o,czynnościowy,none,none,to,future,N
+o,o,mówienia,none,none,to,present,N
+o,o,mówienia,none,none,to,?,N
++,o,odkrycia,none,none,to,past,E
+o,o,epistemiczny,none,none,to,present,N
+o,o,mówienia,none,o/o,to,present,N
+o,o,epistemiczny,none,none,to,present,N
+o,o,odkrycia,none,none,to,past,N
++,o,odkrycia,none,none,to,present,E
++,o,odkrycia,none,none,to,past,E
+o,?,mówienia,none,none,to,past,E
++,o,odkrycia,none,o/o,to,past,E
+o,o,mówienia,none,o/o,to,present,N
++,o,odkrycia,none,o/o,to,past,E
++,o,czynnościowy,none,o/o,to,future,N
+o,+,epistemiczny,none,o/o,to,past,C
+o,o,mówienia,none,none,to,past,N
++,o,odkrycia,none,none,to,past,E
+o,o,wnioskowania,none,none,to,past,N
+o,o,epistemiczny,none,o/o,to,past,N
+o,o,epistemiczny,none,none,to,past,N
+o,o,epistemiczny,none,none,to,present,N
+o,o,epistemiczny,none,none,to,present,N
+o,o,mówienia,none,none,to,past,N
++,o,odkrycia,none,none,to,past,E
++,?,epistemiczny,none,none,to,present,E
+o,o,epistemiczny,none,o/o,to,present,N
+o,o,epistemiczny,none,none,to,present,N
+o,o,mówienia,none,o/o,to,past,N
+o,o,mówienia,none,none,to,past,N
+o,+,epistemiczny,none,o/o,to,present,E
+o,o,mówienia,none,none,to,present,N
++,o,odkrycia,none,none,to,past,E
++,?,epistemiczny,none,none,to,present,N
++,o,czynnościowy,none,none,to,past,E
+o,o,mówienia,none,none,to,present,N
++,o,czynnościowy,none,none,to,future,N
+o,o,mówienia,none,o/o,to,past,N
++,o,odkrycia,none,none,to,present,E
+o,o,liczenia,none,none,to,present,N
++,o,czynnościowy,none,o/o,to,past,E
++,-,ontyczny,none,o/o,to,present,E
+o,o,epistemiczny,none,none,to,present,N
++,o,odkrycia,none,o/o,to,past,N
+o,o,epistemiczny,none,none,to,past,N
+o,o,epistemiczny,none,none,to,past,N
+-,+,określające dostęp do wiedzy,none,none,to,past,C
++,o,dowodzenia,none,o/o,to,future,N
+o,o,epistemiczny,none,o/o,to,past,N
++,o,odkrycia,none,none,to,past,E
++,o,odkrycia,none,none,to,past,E
+o,o,czynnościowy,none,none,to,present,N
++,o,odkrycia,none,o/o,to,past,N
+o,+,epistemiczny,none,none,to,past,E
+o,+,epistemiczny,none,none,to,past,E
+o,o,epistemiczny,none,o/o,to,past,N
+o,o,epistemiczny,none,none,to,present,N
+o,o,epistemiczny,none,o/o,to,present,N
+o,o,odkrycia,none,none,to,past,?
+o,o,odkrycia,none,none,to,past,?
++,o,odkrycia,none,none,to,past,E
++,o,odkrycia,none,none,to,past,E
++,o,odkrycia,none,none,to,present,E
++,?,mówienia,none,none,to,?,E
++,o,odkrycia,none,none,to,past,E
++,o,odkrycia,none,none,to,past,E
+o,o,epistemiczny,none,o/o,to,present,N
++,o,odkrycia,none,none,to,past,E
+o,o,mówienia,none,o/o,to,past,N
++,o,odkrycia,none,none,to,past,E
+o,o,mówienia,none,none,to,past,N
++,o,odkrycia,none,none,to,future,N
++,o,odkrycia,none,none,to,past,E
++,o,czynnościowy,none,none,to,present,N
+o,o,epistemiczny,none,none,to,present,N
+o,o,epistemiczny,none,none,to,present,N
++,o,odkrycia,none,none,to,present,N
++,o,odkrycia,none,none,to,future,N
++,o,odkrycia,none,none,to,past,E
++,o,odkrycia,none,none,to,present,E
+o,o,epistemiczny,none,none,to,past,N
++,o,odkrycia,none,none,to,present,N
++,o,odkrycia,none,none,to,none,N
++,o,odkrycia,none,none,to,present,E
+o,o,mówienia,none,none,to,present,N
+o,o,mówienia,none,none,to,present,?
+o,o,epistemiczny,none,none,to,present,N
++,o,odkrycia,none,none,to,past,E
++,o,odkrycia,none,none,to,present,E
++,o,czynnościowy,none,none,to,present,E
+-,+,określające dostęp do wiedzy,none,none,to,none,C
+-,+,określające dostęp do wiedzy,none,none,to,none,C
+-,+,określające dostęp do wiedzy,none,none,to,present,C
+-,+,określające dostęp do wiedzy,none,o/o,to,past,N
+-,+,określające dostęp do wiedzy,none,o/o,to,present,C
